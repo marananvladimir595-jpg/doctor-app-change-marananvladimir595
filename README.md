@@ -1,5 +1,3 @@
-# doctor-app-change-marananvladimir595
-Учебный проект: управление изменением требований
 # Doctor Appointment App
 
 Учебный проект: мобильное приложение для записи к врачу.
